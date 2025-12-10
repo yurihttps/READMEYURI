@@ -1,6 +1,6 @@
 
 # READMEYURI
-meu readme. enjoy!
+Um pouco sobre mim.
 🚀 Sobre mim
 
 🎯 Iniciando meus estudos em programação
